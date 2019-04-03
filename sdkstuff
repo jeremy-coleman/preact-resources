@@ -1,0 +1,114 @@
+
+template compilers
+Fluent H using proxies, ty baby jesus https://github.com/laggingreflex/hyperchain
+Pug https://github.com/bluewings/pug-as-jsx-loader
+Handlebars https://github.com/shqld/handlebars-jsx-adapter/blob/master/lib/index.ts
+HAST to preact https://github.com/zipang/markdown-bundle/blob/master/src/remark/hast-to-preact/index.js
+https://github.com/esxjs/esx
+
+some apps
+
+https://github.com/PepsRyuu/mocha-istanbul-ui
+https://github.com/PepsRyuu/sketch-viewer
+
+https://github.com/guardian/prosemirror-typerighter
+https://github.com/ZenUml/web-sequence
+https://github.com/trys/JournalBook
+https://github.com/undp/transparencyportal
+https://github.com/letscontrolit/espeasy_ui
+
+https://github.com/GordonSmith/dashy-app
+https://github.com/JeffreyRiggle/enigma-wasm
+https://github.com/shantanuraj/podcst-web
+https://github.com/mattdesl/giftool
+https://github.com/kontrollanten/har-analyzer
+https://github.com/dferber90/npmstats
+https://github.com/ovgu-cs-workshops/web-terminal
+https://github.com/Scthe/spotify-lyrics-web-extension
+https://github.com/ipenywis/ButterflyEditor
+https://github.com/supermedium/beatsaver-viewer
+https://github.com/msroberts/recipe-json-editor
+https://github.com/StompRocket/citations
+https://github.com/postlight/secretmsg
+https://github.com/cwxyz007/firebase-comment-system
+https://github.com/rafael-acerqueira/netflix-clone
+https://github.com/aganov/esp3d-ui (bootstrap4)
+https://github.com/AksoEo/admin-dashboard
+
+component singletons
+https://github.com/ashokvishwakarma/preact-tooltip
+https://github.com/prontotype-us/preact-color-picker/blob/master/src/index.coffee
+
+alias configs
+Parcel https://github.com/lukejagodzinski/parcel-typescript-preact-compat/blob/master/package.json
+
+tfjs stuff
+https://github.com/matt-landers/tictactoe-ai
+https://github.com/talvasconcelos/tfjs-dcgan
+https://github.com/kevinrobinson/tiny-trainer
+https://github.com/bacti/voice-recognizer
+https://github.com/rreusser/gaussian-mixture-estimator
+https://github.com/craigmcdonald/chatbot-react
+https://github.com/tensorflow/tfjs-vis/blob/master/src/components/tabs.tsx
+
+gl
+https://github.com/Scthe/Animation-workshop
+https://github.com/ericblancas23/color-changing-sphere
+https://github.com/rreusser/controls-gui
+
+css
+https://github.com/hitta-skyddsrum/webclient-preact (mdc map , mui react)
+https://github.com/Download/preact-solids
+https://github.com/TobiasMorell/preact-material-autocompleter
+https://github.com/kencyke/preact-tailwind-storybook
+https://github.com/simonswiss/preact-tailwind/blob/master/template/preact.config.js
+
+css in js
+https://github.com/cds-snc/symmorfosi
+https://github.com/dan-harris/preact-static-site-starter/tree/develop/src/styles
+https://github.com/cds-snc/compliance-ui
+
+charts and data
+https://github.com/zhu-qin/linear-algebra/blob/master/matrix/matrix-view.jsx
+https://github.com/PepsRyuu/virtual-scrolling-tree (no jank tree expansion)
+https://github.com/kontrollanten/preact-leaflet
+https://github.com/ehgoodenough/twitch-insights-visualization
+https://github.com/msroberts/preact-api-demo
+https://github.com/bogdaniy/graphoman
+https://github.com/Omi0/mortgage-calculator
+https://github.com/kbase/kbase-ui
+https://github.com/cheeaun/busrouter-sg
+https://github.com/cds-snc/loon-ui
+https://github.com/marszall87/funnel-visualization
+
+hooks
+https://github.com/shff/my-react-hooks
+https://github.com/samuherek/use-debounce-preact
+
+graphql
+https://github.com/KayDee/graphql-personal
+
+testing
+https://github.com/robertknight/enzyme-adapter-preact-pure
+
+code
+https://github.com/dawran6/clj-app clojure
+https://github.com/dpck/static-analysis
+https://github.com/PepsRyuu/rollup-plugin-static-files
+https://github.com/PepsRyuu/rollup-plugin-commonjs-alternate
+
+random helpers
+mixin util https://github.com/Download/mics
+streaming regex parser https://github.com/artdecocode/restream/blob/master/src/Replaceable.js
+
+pdf , md, citations
+https://github.com/pkamenarsky/leerraum.js
+https://github.com/hypothesis/client/blob/master/src/shared/frame-rpc.js
+
+lit
+https://github.com/Dabolus/google-assistant-desktop-unofficial
+https://github.com/uxland/uxl-utilities
+
+random
+https://github.com/opacity/webnode
+
